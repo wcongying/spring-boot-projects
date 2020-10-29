@@ -1,2 +1,2 @@
 # spring-boot-projects
-Spring Boot
+Show how to use spring boot
